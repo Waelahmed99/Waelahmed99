@@ -2,6 +2,7 @@
 
 My name is Wael Ahmed, I am a fresh graduate Software Engineer.
 
+- :raised_hand: I am currently a Software Engineer at `Microsoft`
 - :raised_hand: I worked as a freelance Mobile developer using `Flutter`
 - :raised_hand: I made some helpful websites using `React`
 - :raised_hand: I love using Software as a solution for every `Problem`
